@@ -4,7 +4,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="center">
-  <a href="www.linkedin.com/in/danial-forouzanfar">My Linkedin</a>
+  <a href="www.linkedin.com/in/danial-forouzanfar"><img loading="lazy" alt="LinkedIn" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png"></a>
 </p>
 
 🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.
