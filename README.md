@@ -4,7 +4,8 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="center">
-  <a href="www.linkedin.com/in/danial-forouzanfar"><img loading="lazy" alt="LinkedIn" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png"></a>
+  <a href="www.linkedin.com/in/danial-forouzanfar">
+  <img loading="lazy" src="[https://scdn.netlify.app/linkedin-samirpaul.svg](https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png)" width="10" height="10"></a>
 </p>
 
 🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.
