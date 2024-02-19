@@ -3,6 +3,10 @@
 <h2 align="center">Danial is here, a data science student with a lot of passion</h2>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+<p align="center">
+  <a href="www.linkedin.com/in/danial-forouzanfar" alt="My Linkedin"></a>
+</p>
+
 <!--
 **Dforouzanfar/dforouzanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
