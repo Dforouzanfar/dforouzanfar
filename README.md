@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/danial-forouzanfar">
-  <img loading="lazy" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png" width="10" height="10"> My likedin page</a>
+  <img loading="lazy" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png" width="20" height="20"> My likedin page</a>
 </p>
 
 🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.
