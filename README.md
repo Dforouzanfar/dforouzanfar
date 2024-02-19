@@ -8,7 +8,7 @@
   <a href="www.linkedin.com/in/danial-forouzanfar">My Linkedin page</a>
 </p>
 
-🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.
+🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.  
 Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```
 <!--
 **Dforouzanfar/dforouzanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
