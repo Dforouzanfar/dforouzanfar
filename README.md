@@ -7,7 +7,7 @@
   <a href="www.linkedin.com/in/danial-forouzanfar">My Linkedin</a>
 </p>
 
-Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```.
+Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```
 <!--
 **Dforouzanfar/dforouzanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
