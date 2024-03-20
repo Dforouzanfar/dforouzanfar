@@ -8,7 +8,7 @@
 </p>
 
 🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.  
-🛠️ Languages and Tools:   
+🛠️ Languages and Tools: 
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">, 
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">,
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">,
