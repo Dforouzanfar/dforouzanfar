@@ -8,10 +8,6 @@
 📚 Former Teaching Assistant | University of Tehran  
 🏭 Former Production Planner | Sepehr Safety Glass Co  
 
-👨‍💻 I'm Danial, a data scientist with a robust background in industrial engineering. Currently, I'm pursuing my Master's degree in Data Science at the esteemed University of Milan, Italy.
-
-💻 Python is my playground, where I thrive in leveraging its power to develop innovative solutions. Whether it's developing machine learning algorithms or exploring neural networks with PyTorch and TensorFlow, I enjoy the process of unraveling intricate problems.
-
 🛠️ Languages and Tools:  
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">, 
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">,
