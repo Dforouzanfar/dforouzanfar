@@ -1,19 +1,30 @@
-### Hi there 👋
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+### 👋 Hi there 
+
+🚀 Danial Forouzanfar | Data Scientist & Industrial Engineer
+------------------------------------------------------------------
+🎓 Master's Candidate in Data Science | University of Milan
+📚 Former Teaching Assistant | University of Tehran
+🏭 Former Production Planner | Sepehr Safety Glass Co
+
+👨‍💻 I'm Danial, a data scientist with a robust background in industrial engineering. Currently, I'm pursuing my Master's degree in Data Science at the esteemed University of Milan, Italy.
+
+💻 Python is my playground, where I thrive in leveraging its power to develop innovative solutions. Whether it's developing machine learning algorithms or exploring neural networks with PyTorch and TensorFlow, I enjoy the process of unraveling intricate problems.
+
+🛠️ Languages and Tools:  
+  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">, 
+  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">,
+  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">,
+  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40">  
 
 <p align="center">
   <img loading="lazy" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png" width="20" height="20">
   <a href="https://www.linkedin.com/in/danial-forouzanfar/">My Linkedin page</a>
 </p>
 
-🎓 Currently I'm studying Data Science for Economics at the University of Milan, Italy.  
-🛠️ Languages and Tools:  
-  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">, 
-  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">,
-  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">,
-  <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40">  
 ✉ Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```  
+
 <!--
 **Dforouzanfar/dforouzanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
