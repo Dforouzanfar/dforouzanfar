@@ -9,17 +9,19 @@
 🏭 Former Production Planner | Sepehr Safety Glass Co  
 
 🛠️ Languages and Tools:  
+  <p align="center">
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">, 
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">,
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">,
   <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40">  
+  </p>
 
 
 ✉ Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```   
-<p align="left">
   <img loading="lazy" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png" width="10" height="10">
+  <p align="left">
   <a href="https://www.linkedin.com/in/danial-forouzanfar/">My Linkedin page</a>
-</p>
+  </p>
 
 <!--
 **Dforouzanfar/dforouzanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
