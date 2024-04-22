@@ -4,9 +4,9 @@
 
 🚀 Danial Forouzanfar | Data Scientist & Industrial Engineer
 ------------------------------------------------------------------
-🎓 Master's Candidate in Data Science | University of Milan
-📚 Former Teaching Assistant | University of Tehran
-🏭 Former Production Planner | Sepehr Safety Glass Co
+🎓 Master's Candidate in Data Science | University of Milan  
+📚 Former Teaching Assistant | University of Tehran  
+🏭 Former Production Planner | Sepehr Safety Glass Co  
 
 👨‍💻 I'm Danial, a data scientist with a robust background in industrial engineering. Currently, I'm pursuing my Master's degree in Data Science at the esteemed University of Milan, Italy.
 
