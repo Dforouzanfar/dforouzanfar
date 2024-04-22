@@ -18,7 +18,7 @@
 
 
 ✉ Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```   
-🔗 <p align="center"><a href="https://www.linkedin.com/in/danial-forouzanfar/">My Linkedin page</a></p>
+🔗 <a href="https://www.linkedin.com/in/danial-forouzanfar/">My Linkedin page</a>
 
 <!--
 **Dforouzanfar/dforouzanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
