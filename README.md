@@ -18,8 +18,10 @@
 
 
 ✉ Get in touch with me via email at ```danial.forouzanfar@studenti.unimi.it```   
-  <img loading="lazy" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png" width="10" height="10">
   <p align="left">
+  <img loading="lazy" src="https://github.com/Dforouzanfar/dforouzanfar/blob/main/Linkedin.png" width="10" height="10">
+  </p>
+  <p align="center">
   <a href="https://www.linkedin.com/in/danial-forouzanfar/">My Linkedin page</a>
   </p>
 
